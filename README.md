@@ -1,4 +1,3 @@
-# mNMS
-Moderne Number Manipulation System
+# Moderne Number Manipulation System
 
 PLEASE READ THE DESCRIPTION.MD & LICENSE FIRST
