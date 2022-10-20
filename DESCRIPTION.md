@@ -7,5 +7,7 @@ Taken all together, MAS represents all possible elements of the universe utilisi
 
 This system is implementation agnostic, and looks to support all programming languages utilising complex number probabilistic mathematics. The open source project in this repo is maintained by Xiaofeng Paul Lin, and all copyrights is reserved by him and his majority ownership companies including Likbong, Moderne, and XREngine. 
 
-# External Links to Maintainer
-1. https://linktr.ee/paulxflin
+# External Links
+1. Maintainer (XPL): https://linktr.ee/paulxflin
+2. Contributing to Open Source (PyPI): https://betterscientificsoftware.github.io/python-for-hpc/tutorials/python-pypi-packaging
+
